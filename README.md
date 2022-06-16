@@ -27,11 +27,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
 3. Copy `.env.example` to `.env` and fill in the missing values, and run
 
+4. Generate the APP_KEY
+
     ```sh
     php artisan key:generate
     ```
-
-    for generate the APP_KEY
 
 4. Run database migration and seed
 
