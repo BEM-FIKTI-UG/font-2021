@@ -40,7 +40,7 @@ _Below is an example of how you can instruct your audience on installing and set
     php artisan migrate
     ```
 
-7. Run factory faker seeder
+7. Run factory faker seeder (optional)
 
     ```sh
     php artisan db:seed
