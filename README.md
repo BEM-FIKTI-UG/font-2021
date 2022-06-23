@@ -13,7 +13,7 @@
 
 _Below is an example of how you can instruct your audience on installing and setting up your app._
 
-1. Clone the repo
+1. Clone the repo and move to the folder
 
     ```sh
     git clone https://github.com/hansevant/font21-laravel.git
@@ -49,5 +49,10 @@ _Below is an example of how you can instruct your audience on installing and set
 8. Run the server
    ✈️✈️✈️
    ____
-   / : user (admin) <br>
+   / : user (root) <br>
    /login : admin
+   ____
+   
+###credentials admin 
+| username | admin |
+| password |admin |
