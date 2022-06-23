@@ -48,10 +48,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
 8. Run the server
    ✈️✈️✈️
-   ____
-   / : user (root) <br>
-   /login : admin
-   ____
+   
+____
+/ : user (root) <br>
+/login : admin
+____
    
 ### credentials admin 
 
