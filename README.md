@@ -33,19 +33,20 @@ _Below is an example of how you can instruct your audience on installing and set
     php artisan key:generate
     ```
 
-4. Run database migration and seed
+5. Creaete the database with same name in .env files
+6. Run database migration and seed
 
     ```sh
     php artisan migrate
     ```
 
-5. Run factory faker seeder
+7. Run factory faker seeder
 
     ```sh
     php artisan db:seed
     ```
 
-6. Run the server
+8. Run the server
    ✈️✈️✈️
    ____
    / : user (admin) <br>
