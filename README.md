@@ -53,6 +53,7 @@ _Below is an example of how you can instruct your audience on installing and set
    /login : admin
    ____
    
-###credentials admin 
-| username | admin |
-| password |admin |
+### credentials admin 
+
+ username : admin <br>
+ password : admin 
